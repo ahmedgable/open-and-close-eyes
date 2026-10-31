@@ -33,7 +33,12 @@ An end-to-end Deep Learning & Computer Vision application designed to detect ope
 cd open-and-close-eyes
 Install dependencies:Bashpip install -r requirements.txt
 Run the Streamlit app:Bashstreamlit run app.py
-📊 Model ArchitectureThe custom Convolutional Neural Network (CNN) consists of:3x Convolutional & Max-Pooling layers for spatial feature extraction.Dropout layer (0.2) for regularization.Dense layers with Sigmoid activation for binary classification (Open vs. Closed).Trained on grayscale images resized to $224 \times 224$ pixels.👤 AuthorMahmoudGitHub: @ahmedgable
+📊 Model ArchitectureThe custom Convolutional Neural Network (CNN) consists of:
+3x Convolutional & Max-Pooling layers for spatial feature extraction.Dropout layer (0.2) for regularization.
+Dense layers with Sigmoid activation for binary classification (Open vs. Closed).
+Trained on grayscale images resized to $224 \times 224$ pixels.
+
+👤 AuthorMahmoudGitHub: @ahmedgable
 ---
 
 ### إزاي تضيفه للمشروع عندك؟
