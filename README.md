@@ -1,3 +1,6 @@
+https://drive.google.com/file/d/1Al7fLsT6_5Qbl88ijD0LQuxsRxOfKd5U/view?usp=sharing
+دا لينك المودل 
+
 Markdown# 👁️ Eye State Detector (Open vs. Closed Eyes)
 
 An end-to-end Deep Learning & Computer Vision application designed to detect open and closed eyes in real-time across static images, video clips, and webcam feeds. Built using TensorFlow/Keras, OpenCV, and an interactive Streamlit web interface.
