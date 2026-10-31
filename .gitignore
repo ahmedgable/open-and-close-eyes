@@ -1,0 +1,3 @@
+echo eye_model.keras > .gitignore
+echo best_model.h5 >> .gitignore
+echo *.onnx >> .gitignore

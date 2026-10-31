@@ -1,0 +1,7 @@
+streamlit>=1.40
+tensorflow>=2.16        # Keras 3 is needed to load models saved from recent Colab
+opencv-python>=4.8      # FaceDetectorYN (YuNet) needs 4.8+
+numpy>=1.26
+pandas
+altair
+imageio-ffmpeg          # H.264 encoding so the annotated video plays in the browser
